@@ -1,0 +1,5 @@
+Yolo V4.cfg
+https://github.com/Tianxiaomo/pytorch-YOLOv4/blob/master/cfg/yolov4.cfg
+
+Yolo V4 weight
+shorturl.at/dzDZ0
